@@ -41,10 +41,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-  Management - Responsible for hiring and training PMR Support Specialists and Application Developers. Manage focus customers and business partners. 
-  Experience - 31 years of IT experiences including managerial role, software QA engineer, programmer, system analyst, support specialist, technical sales, products evangelist, and regional Linux sales lead. 
-  Strong record - Build the Cloud Application Developer team to develop MVP for Watson APIs awareness to customers and business partners. 
-  Results - Responsible to handle ICA with 5 Business Units on WorldWide PMR Support team for 5 years 
+  Management Responsible for hiring and training PMR Support Specialists and Application Developers. Manage focus customers and business partners. 
+  Experience 31 years of IT experiences including managerial role, software QA engineer, programmer, system analyst, support specialist, technical sales, products evangelist, and regional Linux sales lead. 
+  Strong record Build the Cloud Application Developer team to develop MVP for Watson APIs awareness to customers and business partners. 
+  Results Responsible to handle ICA with 5 Business Units on WorldWide PMR Support team for 5 years 
 
 education:
   title: Education
@@ -80,10 +80,10 @@ experiences:
     company: Quest Software Technology Systems Inc.
     details: |
     Responsibility
-      - Work with Software Developers to improve software products during development. 
-      - Create and design detail, comprehensive and well-structured test plans and test cases 
-      - Run tests including regression testing, on software or applications and analyze defects in order to improve products 
-      - Maintaining full Microsoft Windows enterprise environment on Azure VM.          
+      Work with Software Developers to improve software products during development. 
+      Create and design detail, comprehensive and well-structured test plans and test cases 
+      Run tests including regression testing, on software or applications and analyze defects in order to improve products 
+      Maintaining full Microsoft Windows enterprise environment on Azure VM.          
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
