@@ -17,7 +17,7 @@ sidebar:
   phone: email contact is preferred
   timezone: Asia/Kuala Lumpur # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Malaysian
-  website: https://9w2sh.github.io/ # Include the full website URL, including "http://" or "https://".
+  website: 9w2sh.github.io # Include the full website URL, including "http://" or "https://".
   linkedin: 9w2zsh
   github: 9w2zsh
   twitter: 9w2zsh
@@ -36,7 +36,7 @@ sidebar:
     title: Interests
     info:
     - item: Amateur Radio
-      link: https://qrz.com/db/9w2zsh
+      link: qrz.com/db/9w2zsh
 
 career-profile:
   title: Career Profile
