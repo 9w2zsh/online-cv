@@ -56,8 +56,8 @@ education:
         - Graduated with a Bachelor of Science in Computer Science.
         - Relevant coursework included software engineering, database management, and network security.
 
-    - high-school: Sijil Pelajaran Malaysia (Malaysia Certificate of Education)
-      school: Sekolah Menengah Teknik Kuala Lumpur (TIKL)
+    - degree: Sijil Pelajaran Malaysia (Malaysia Certificate of Education)
+      university: Sekolah Menengah Teknik Kuala Lumpur (TIKL)
       time: 1983 - 1984
       details: |
         - Completed secondary education with a focus on technical subjects.
